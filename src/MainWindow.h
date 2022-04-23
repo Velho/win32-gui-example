@@ -15,4 +15,5 @@ public:
 
 private:
 	Button m_button;
+	const static HBRUSH COLOR_WINDOW_P1;
 };
